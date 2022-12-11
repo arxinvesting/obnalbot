@@ -1,0 +1,2 @@
+TOKEN='5774498049:AAGfvND1DQpkCTeIYaQ3YATr4z_ZRGomQpo'
+PAYMENTS_TOKEN='uoed-gzre-bvqg-opbn-muvl'
